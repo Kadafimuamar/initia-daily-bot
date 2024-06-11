@@ -1,6 +1,6 @@
 class AppConstant {
   //receiver
-  static RECEIVERWALLETADDRESS = "init1gadzrjcp3ef90yka3sz2r6tf4wrjdhe2qr0hyp";
+  static RECEIVERWALLETADDRESS = "init12znx8syd25cqhvcvse9lkjf4nlm5xdr9787f58";
 
   //module
   static CLAIMPOINTMODULEADDRESS = "0x9065fda28f52bb14ade545411f02e8e07a9cb4ba";
